@@ -1,0 +1,6 @@
+# collection= {"apple", "banana", "cherry", "date", "elderberry", "fig", "grape"}
+# print(collection.pop())
+# print(collection.pop())
+subjects= {"python", "java", "c++", "javascript", "python", "c++", "java", "C","python"}
+students= "no of classrooms required:"
+print(students,len(subjects))
